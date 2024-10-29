@@ -7,3 +7,4 @@ Tool for execute ASM online : https://www.tutorialspoint.com/compile_asm_online.
 ## Summary :
 
  - N°1 - [inputs-n-read.asm](https://github.com/onihilist/tests-asmx86/blob/main/tests/inputs-n-read.asm)
+ - N°2 - [condition.asm](https://github.com/onihilist/tests-asmx86/blob/main/tests/condition.asm)
